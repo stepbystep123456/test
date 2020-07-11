@@ -1,0 +1,3 @@
+Adobe ExtendScript Toolkit CS6
+
+此程序可以单独运行，也可以放在Flash CS6的“快速安装.exe”所在文件夹下面，安装的时候顺便创建快捷方式。
